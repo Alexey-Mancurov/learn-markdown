@@ -66,3 +66,13 @@ npm i countries-data-all
 1) item1
 2) item2
 3) item3
+
+<!-- Вложенные списки -->
+- item1
+  - item2
+    - item3
+
+1. item1
+  2. item2
+    3. item3
+      - item4
