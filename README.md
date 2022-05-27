@@ -41,3 +41,6 @@ console.log(1)
 ```js
 npm i countries-data-all
 ```
+
+<!-- Ссылки -->
+[yandex](yandex.ru)
