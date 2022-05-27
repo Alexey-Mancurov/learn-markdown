@@ -82,3 +82,6 @@ npm i countries-data-all
 - [ ] задача 1
 - [x] задача 2
 - [ ] задача 3
+
+<!-- упоминание -->
+@Alexey-Mancurov
