@@ -44,3 +44,6 @@ npm i countries-data-all
 
 <!-- Ссылки -->
 [yandex](https://yandex.ru/)
+
+<!-- картинки -->
+![img](https://myoctocat.com/assets/images/base-octocat.svg)
