@@ -47,3 +47,22 @@ npm i countries-data-all
 
 <!-- картинки -->
 ![img](https://myoctocat.com/assets/images/base-octocat.svg)
+<!-- для ссылок на изображения в том же репозитории надо использовать относительные ссылки вместо абсолютных -->
+
+
+<!-- списки -->
+- item1
+- item2
+- item3
+
+* item1
+* item2
+* item3
+
+1. item1
+2. item2
+3. item3
+
+1) item1
+2) item2
+3) item3
