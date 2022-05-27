@@ -38,3 +38,6 @@ console.log(1)
 ```js
 console.log(1)
 ```
+```js
+npm i countries-data-all
+```
