@@ -43,4 +43,4 @@ npm i countries-data-all
 ```
 
 <!-- Ссылки -->
-[yandex](yandex.ru)
+[yandex](https://yandex.ru/)
